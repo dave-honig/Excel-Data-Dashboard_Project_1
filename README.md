@@ -32,7 +32,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-<img src="/Images/Project_1_Dashboard_Chart_1.png" width="850" height="550" alt="Salary Dashboard Chart 1">
+<img src="/Images/Project_1_Dashboard_Chart_1.png" width=75% alt="Salary Dashboard Chart 1">
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
@@ -41,9 +41,7 @@ The dataset used for this project contains real-world data science job informati
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-![1_Salary_Dashboard_Chart2.png](/0_Resources/Images/1_Salary_Dashboard_Country_Map.gif)
 
-![Project_1_Dashboard_Country_Map.png](/Images/Project_1_Dashboard_Country_Map.png)
 
 <img src="/Images/Project_1_Dashboard_Country_Map.png" width=75% alt="Project_1_Dashboard_Country_Map">
 
@@ -80,7 +78,7 @@ IF(
 
 📉 Dashboard Implementation
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+<img src="/Images/Project_1_Dashboard_Job_Title" width=75% alt="Salary Dashboard Job Title">
 
 #### ⏰ Count of Job Schedule Type
 
@@ -97,9 +95,7 @@ IF(
 
 📉 Dashboard Implementation:
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
-
-![Project_1_Dashboard_Type.png](/Images/Project_1_Dashboard_Type.png)
+<img src="/Images/Project_1_Dashboard_Job_Title" width=75% alt="Salary Dashboard Job Type">
 
 ### ❎ Data Validation
 
@@ -110,9 +106,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
-
-![Project_1_Dashboard_Data_Validation.png](/Images/Project_1_Dashboard_Data_Validation.png)
+<img src="/Images/Project_1_Dashboard_Data_Validation.png" width=75% alt="Salary Dashboard Data Validation">
 
 ## Conclusion
 
