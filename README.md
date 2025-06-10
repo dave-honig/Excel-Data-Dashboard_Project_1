@@ -95,7 +95,7 @@ IF(
 
 📉 Dashboard Implementation:
 
-<img src="/Images/Project_1_Dashboard_Job_Title.png" width=60% alt="Salary Dashboard Job Type">
+<img src="/Images/Project_1_Dashboard_Type.png" width=60% alt="Salary Dashboard Job Type">
 
 ### ❎ Data Validation
 
