@@ -74,11 +74,11 @@ IF(
 
 🍽️ Background Table
 
-![Project_1_Dashboard_Screenshot_1.png](/Images/Project_1_Dashboard_Screenshot_1.png)
+<img src="/Images/Project_1_Dashboard_Screenshot_1.png" width=50% alt="Salary Dashboard Job Title">
 
 📉 Dashboard Implementation
 
-<img src="/Images/Project_1_Dashboard_Job_Title.png" width=75% alt="Salary Dashboard Job Title">
+<img src="/Images/Project_1_Dashboard_Job_Title.png" width=60% alt="Salary Dashboard Job Title">
 
 #### ⏰ Count of Job Schedule Type
 
@@ -91,11 +91,11 @@ IF(
 
 🍽️ Background Table
 
-![Project_1_Dashboard_Screenshot_2](/Images/Project_1_Dashboard_Screenshot_2.png)
+<img src="/Images/Project_1_Dashboard_Screenshot_2.png" width=50% alt="Salary Dashboard Job Schedule Type">
 
 📉 Dashboard Implementation:
 
-<img src="/Images/Project_1_Dashboard_Job_Title.png" width=75% alt="Salary Dashboard Job Type">
+<img src="/Images/Project_1_Dashboard_Job_Title.png" width=60% alt="Salary Dashboard Job Type">
 
 ### ❎ Data Validation
 
