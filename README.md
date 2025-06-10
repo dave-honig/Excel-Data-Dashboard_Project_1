@@ -7,7 +7,7 @@
 This data jobs salary dashboard was created to improve my skills in using Excel formulas, chart making, and data validation. The data contains detailed information on job titles, salaries, locations, and essential skills from job posting in 2023.
 
 ### Dashboard File
-My final dashboard is in [Project 1_Final Dashboard.xlsx](Project 1_Final Dashboard.xlsx).
+My final dashboard is in [Project_1_Final Dashboard.xlsx](Project_1_Final Dashboard.xlsx).
 
 ### Excel Skills Used
 
