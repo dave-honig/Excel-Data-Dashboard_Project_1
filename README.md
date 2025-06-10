@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![Project 1 Final Salary Dashboard.png](/Images/Project 1 Final Salary Dashboard.png)
+![Project_1_Final_Salary_Dashboard.png](/Images/Project_1_Final_Salary_Dashboard.png)
 
 ## Introduction
 
