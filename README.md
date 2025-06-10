@@ -106,7 +106,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-<img src="/Images/Project_1_Dashboard_Data_Validation.png" width=75% alt="Salary Dashboard Data Validation">
+<img src="/Images/Project_1_Dashboard_Data_Validation.png" width=55% alt="Salary Dashboard Data Validation">
 
 ## Conclusion
 
